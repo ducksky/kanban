@@ -1,0 +1,29 @@
+body {
+  background-image:url("https://cdn.pixabay.com/photo/2013/03/23/23/10/brush-96240_1280.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: auto;
+  background-attachment: fixed;
+  background-position : center;
+  padding-top: 70px;
+}
+
+.home {
+  display: table-cell !important;
+}
+
+.list {
+  width: 240px;
+  height: 100%;
+}
+
+
+.jumbotron {
+width:100%;
+height:auto;
+background-image: url("https://biz-journal.jp/wp-content/uploads/2020/06/post_165515_20200630t1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+  
